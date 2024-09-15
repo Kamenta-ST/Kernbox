@@ -22,11 +22,7 @@
 ### QQ 群: 884833820
 ***
 # 贡献者:
-### English & Japanese locale: [ookiineko](https://github.com/ookiineko)
-### Japanese README translator: [reindex-ot](https://github.com/reindex-ot)
 ### utils提供及帮助: [ColdWindScholar](https://github.com/ColdWindScholar)
-***
-### 感谢你们的帮助!
 ***
 # 关于
 ***
