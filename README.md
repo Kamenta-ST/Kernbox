@@ -1,44 +1,27 @@
-# MIO-KITCHEN-SOURCE-ANDROID #
+# Kernbox #
 #### Kernbox
 > [!CAUTION]
-> Unauthorized commercial use prohibited
-## Localization
-### 中文: [zh-CN](README_zh-CN.md)
+> 未经允许，严禁将本软件用于商业用途！
 ***
-## Features
-* Unpack boot, dtbo, ext4, erofs, payload, logo and so on
-* Pack boot, dtbo, ext4, erofs, payload, logo and so on
-***
-## Powered by [Mio Android Kitchen](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) && [Kr-Scripts](https://github.com/ColdWindScholar/kr-scripts)
-***
-## Advantages
-* Automatic fs_config and fs_context patch
-* GUI graphical interface
-* Customizable plugins support, plus an manager for installing and managing
-* Quick updates, secure, stable and fast
-* Unique MSH interpreter that supports running MSH scripts
-* Provide backward compatibility with Android 8 and lower and create .img for these versions
+## 功能
+* 解包 boot dtbo ext4 erofs payload logo 之类
+* 打包 boot dtbo ext4 erofs payload logo 之类
 ***
 ***
-# Contact Us
+## 优势
+* 自动Fs和Context修补
+* GUI用户界面
+* 支持自定义kst模块 解析 安装
+* 更新迅速, 安全快捷
+* 支持安卓8以下ROM打IMG
 ***
-### Developer's Email: 3590361911@qq.com
-### QQ Group: 836898509
-### Telegram Group: [Mio Android Kitchen Chat](https://t.me/mio_android_kitchen_group)
-### Telegram Channel: [Mio Android Kitchen Updates](https://t.me/mio_android_kitchen)
 ***
-# Contributors:
-### English & Japanese locale: [ookiineko](https://github.com/ookiineko)
-### Japanese README translator: [reindex-ot](https://github.com/reindex-ot)
+# 联系我们
 ***
-### Thanks to people like you for helping out!!
+### 开发者邮箱: 2565843334@qq.com
+### QQ 群: 884833820
 ***
-# About
+# 贡献者:
+### utils提供及帮助: [ColdWindScholar](https://github.com/ColdWindScholar)
 ***
-### Kernbox
-```
-Always free, users first
-Quality Tools, presented here!
-Brought by the MIO-KITCHEN-TEAM
-```
-#### ColdWindScholar(3590361911@qq.com) All Rights Reserved. ####
+#### Kamenta(2565843334@qq.com) 保留部分权利. ####
