@@ -3,9 +3,6 @@
 > [!CAUTION]
 > 未经允许，严禁将本软件用于商业用途！
 ***
-## 此工具使用了许多开源项目， 向开发者们致敬!
-***
-***
 ## 功能
 * 解包 boot dtbo ext4 erofs payload logo 之类
 * 打包 boot dtbo ext4 erofs payload logo 之类
