@@ -6,7 +6,6 @@
 ## This tool uses many open source projects. Huge shout out to the developers!
 ***
 ## Localization
-### 日本語: [ja-JP](README_ja-JP.md)
 ### 中文: [zh-CN](README_zh-CN.md)
 ***
 ## Features
