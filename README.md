@@ -1,10 +1,7 @@
 # MIO-KITCHEN-SOURCE-ANDROID #
-#### MIO-KITCHEN Android Version
+#### Kernbox
 > [!CAUTION]
 > Unauthorized commercial use prohibited
-***
-## This tool uses many open source projects. Huge shout out to the developers!
-***
 ## Localization
 ### 中文: [zh-CN](README_zh-CN.md)
 ***
@@ -38,7 +35,7 @@
 ***
 # About
 ***
-### MIO-KITCHEN
+### Kernbox
 ```
 Always free, users first
 Quality Tools, presented here!
